@@ -6,12 +6,12 @@
 /*   By: ltheveni <ltheveni@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/09 11:01:20 by ltheveni          #+#    #+#             */
-/*   Updated: 2025/02/09 11:37:17 by ltheveni         ###   ########.fr       */
+/*   Updated: 2025/02/14 11:39:32 by ltheveni         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef WEAPON_H
-#define WEAPON_H
+#ifndef WEAPON_HPP
+#define WEAPON_HPP
 
 #include <string>
 

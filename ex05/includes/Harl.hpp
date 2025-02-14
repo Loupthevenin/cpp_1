@@ -6,9 +6,12 @@
 /*   By: ltheveni <ltheveni@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/09 14:39:42 by ltheveni          #+#    #+#             */
-/*   Updated: 2025/02/09 14:44:39 by ltheveni         ###   ########.fr       */
+/*   Updated: 2025/02/14 11:43:15 by ltheveni         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#ifndef HARL_HPP
+#define HARL_HPP
 
 #include <string>
 
@@ -23,3 +26,5 @@ public:
   Harl();
   void complain(std::string level);
 };
+
+#endif
